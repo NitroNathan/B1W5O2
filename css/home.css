@@ -1,12 +1,12 @@
 body{
 background-image: url(images/header_bg.jpg);
 
-
 }
 
 #logo{
 	margin-top: 250px;
 margin-left:525px;
+
 }
 
 
@@ -31,7 +31,6 @@ p{
     background: white;
     float:right;
     color:grey;
-    display: initial;
     width: 100%;
 }
 .a{
@@ -40,3 +39,5 @@ p{
     float: right;
     margin-left: 10px;
 }
+
+
