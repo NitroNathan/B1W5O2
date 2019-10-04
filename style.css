@@ -26,3 +26,17 @@ p{
 	font-family: 'Roboto', sans-serif;
 
 }
+
+#menu{
+    background: white;
+    float:right;
+    color:grey;
+    display: initial;
+    width: 100%;
+}
+.a{
+    color: gray;
+    height: 2;
+    float: right;
+    margin-left: 10px;
+}
