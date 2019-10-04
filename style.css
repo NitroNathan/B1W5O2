@@ -1,5 +1,28 @@
-#logo{
-	margin-top: 17%;
-	margin-left: 37%;
+body{
+background-image: url(images/header_bg.jpg);
+
+
 }
 
+#logo{
+	margin-top: 250px;
+margin-left:525px;
+}
+
+
+i{
+	color:grey; 
+	font-size: 35px;
+	margin-top:60px;
+	margin-left:70px;
+}
+
+.fa-home{
+margin-left: 310px;
+}
+
+p{
+	font-size: 20px;
+	font-family: 'Roboto', sans-serif;
+
+}
