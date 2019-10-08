@@ -2,6 +2,9 @@ body{
 background-image: url(images/header_bg.jpg);
 
 }
+
+
+
 i{
 	color:grey; 
 	font-size: 35px;
@@ -18,9 +21,7 @@ p{
 	font-family: 'Roboto', sans-serif;
 
 }
-
 #p1{
-  color: white;
-  margin:10px;
-  border: ridge;
+	color: white;
+	border: solid;
 }
